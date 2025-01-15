@@ -1,0 +1,10 @@
+.container {
+    position: relative;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    z-index: 1;
+}
