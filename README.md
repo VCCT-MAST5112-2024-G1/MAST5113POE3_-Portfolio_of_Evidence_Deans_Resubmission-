@@ -19,3 +19,5 @@ steps to run it
 **links:**
 
 youtube: https://youtu.be/MJ7t05CJebw
+
+pdf: https://1drv.ms/b/s!AtUAh1OgDCCRlbwwpPkO7d6XvAXonA?e=DczlUf
